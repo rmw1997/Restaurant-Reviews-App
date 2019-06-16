@@ -21,3 +21,6 @@ A **Restaurant Reviews** Website is converted to mobile-ready web application by
 ## Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
+
+#### Note
+All the resources used in this project are written as comments next to the code.
