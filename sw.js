@@ -1,6 +1,6 @@
 const cache_name = 'v1';
 
-// INSTALLING
+/* INSTALLING */
 self.addEventListener('install',function(event){
     event.waitUntil(
         caches.open(cache_name).then(function(cache){
